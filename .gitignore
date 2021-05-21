@@ -11,3 +11,6 @@ tmp/
 local.properties
 .loadpath
 .factorypath
+/.idea
+/out
+remotedatastructure.iml

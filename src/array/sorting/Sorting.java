@@ -1,6 +1,6 @@
 package array.sorting;
 
-public class AILearnsSorting {
+public class Sorting {
 
 	public void print(int[] a) throws InterruptedException
 	{
@@ -115,7 +115,7 @@ public class AILearnsSorting {
 	public static void main(String[] args) throws InterruptedException 
 	{
 		
-		AILearnsSorting ms = new AILearnsSorting();
+		Sorting ms = new Sorting();
 		
 		int[] a = {	3,8,75,13,53,65,47,85,44,77,66,89,18,73,06,79,62,36,54,12,87,9,23,54,37,11};
 		System.out.println("Given List is : ");
